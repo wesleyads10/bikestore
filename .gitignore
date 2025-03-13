@@ -1,0 +1,17 @@
+# Ignorar pastas e arquivos desnecessários
+logs/
+temp/
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# Ignorar arquivos de banco de dados temporários
+*.db
+*.sqlite
+*.sql~
+
+# Ignorar arquivos gerados pelo sistema operacional
+Thumbs.db
